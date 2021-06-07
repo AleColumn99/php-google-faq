@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.container {
+  width: 50%;
+  min-width: 700px;
+  margin: auto;
+}
+
+h3 {
+  margin-top: 20px;
+  color: #3C4043;
+}
+
+span {
+  font-size: 14px;
+}
+
+p {
+  margin-top: 10px;
+}
+
+span ol li {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+span ol li ol {
+  list-style-type: lower-latin;
+}
